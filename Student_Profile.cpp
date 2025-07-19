@@ -39,7 +39,7 @@ public:
 
 
 int main() {
-    Student s1(61, 57.5, "Sravani", "ECE");
+    Student s1(61, 57.5, "Sravani", "CSE");
     s1.displayDetails();
 
     s1.setMarks(95.12);  
